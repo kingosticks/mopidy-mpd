@@ -3,6 +3,16 @@ Changelog
 *********
 
 
+v3.1.0 (UNRELEASED)
+===================
+
+- Depend on Mopidy 3.1.0.
+
+- Fix ``list`` command filtering. (Fixes: :issue:`27`, PR: :issue:`28`)
+
+- Support additional tag types in music database queries. (Fixes: :issue:`29`, PR: :issue:`30`)
+
+
 v3.0.0 (2019-12-22)
 ===================
 
